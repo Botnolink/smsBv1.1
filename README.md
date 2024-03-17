@@ -1,9 +1,9 @@
-## smsBv1.1
+# smsBv1.1
 _________________
 Karimi
 -- MMD Ali
 
-# For Termux:
+## For Termux:
   1. Download & Install Termux With Google PLay or Official Website
 https://termux.dev
   2. Enter "termux-setup-storage" Command And Allow The Termux to Access The Files
@@ -12,3 +12,7 @@ https://termux.dev
   5. Enter "git clone https://github.com/Botnolink/smsBv1.1" Command In termux
   6. Enter "cd smsBv1.1" Command
   7. Enter "go run sms.go" Command
+
+### Commands
+
+    > A
