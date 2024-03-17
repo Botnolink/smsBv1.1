@@ -2,7 +2,7 @@
 _________________
 > [!NOTE]
 > Karimi
-> > [!NOTE]
+> [!NOTE]
 > Developer: **-- MMD Ali --** : [@Yazdegerd1](https://t.me/Yazdegerd1)
 
 
