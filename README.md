@@ -1,10 +1,10 @@
 # smsBv1.1
 _________________
 Karimi
--- MMD Ali
+-- MMD Alii
 
 ## For Termux:
-  1. Download & Install Termux With Google PLay or [Official Website](urlhttps://termux.dev)
+  1. Download & Install Termux With Google PLay or [Official Website](https://termux.dev)
 
   3. Enter 'termux-setup-storage' Command And Allow The Termux to Access The Files
   4. Enter 'apt update' and Then 'apt upgrade' Commands In Termux
