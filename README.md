@@ -1,7 +1,8 @@
 # smsBv1.1
-Karimi
-MMD Ali
 _________________
+Karimi
+-- MMD Ali
+
 For Termux:
   1. Download & Install Termux With Google PLay or Official Website
 https://termux.dev
