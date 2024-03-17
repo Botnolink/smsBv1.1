@@ -4,7 +4,7 @@ _________________
 > Karimi
  _________
 > [!NOTE]
-> Developer: **-- MMD Ali --** : [@Yazdegerd1](https://t.me/Yazdegerd1)
+> Developer: **MMD Ali** : [@Yazdegerd1](https://t.me/Yazdegerd1)
 
 
 ## For Termux:
