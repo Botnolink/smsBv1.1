@@ -15,4 +15,4 @@ https://termux.dev
 
 ### Commands
 
-    > A
+  `A`
