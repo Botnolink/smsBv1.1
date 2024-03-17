@@ -4,8 +4,7 @@ Karimi
 -- MMD Ali
 
 ## For Termux:
-  1. Download & Install Termux With Google PLay or [fficial Website]
-     (https://termux.dev)
+  1. Download & Install Termux With Google PLay or [official Website]([url](https://termux.dev))
 
   3. Enter 'termux-setup-storage' Command And Allow The Termux to Access The Files
   4. Enter 'apt update' and Then 'apt upgrade' Commands In Termux
