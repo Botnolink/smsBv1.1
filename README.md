@@ -1,7 +1,8 @@
 # smsBv1.1
 _________________
-   Karimi
--- MMD Ali -- : [@Yazdegerd1](https://t.me/Yazdegerd1)
+> [!NOTE]
+> Karimi
+**-- MMD Ali --** : [@Yazdegerd1](https://t.me/Yazdegerd1)
 
 ## For Termux:
   1. Download & Install Termux With Google PLay or [Official Website](https://termux.dev)
