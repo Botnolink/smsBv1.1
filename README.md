@@ -1,9 +1,9 @@
-# smsBv1.1
+## smsBv1.1
 _________________
 Karimi
 -- MMD Ali
 
-For Termux:
+# For Termux:
   1. Download & Install Termux With Google PLay or Official Website
 https://termux.dev
   2. Enter "termux-setup-storage" Command And Allow The Termux to Access The Files
