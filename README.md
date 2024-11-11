@@ -1,11 +1,5 @@
 # smsBv1.1
 _________________
-> [!NOTE]
-> 
- _________
-> [!NOTE]
-> Developer: [@Yazdegerd1](https://t.me/Yazdegerd1)
-
 
 ## For Termux:
   1. Download & Install Termux With Google PLay or [Official Website](https://termux.dev)
