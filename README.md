@@ -1,7 +1,7 @@
 # smsBv1.1
 _________________
 > [!NOTE]
-> Karimi
+> 
  _________
 > [!NOTE]
 > Developer: [@Yazdegerd1](https://t.me/Yazdegerd1)
